@@ -1,0 +1,10 @@
+final_model/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.log
+__pycache__/
+.ipynb_checkpoints/
+.virtual_documents/
